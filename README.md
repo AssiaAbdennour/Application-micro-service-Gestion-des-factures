@@ -1,49 +1,66 @@
 # Application-micro-service-Gestion-des-factures
 
-## Customer Service 
-<img width="959" alt="Customer-service" src="https://user-images.githubusercontent.com/83584345/201995964-0f942a56-060f-4d8d-ba4a-a5b0094d6945.png">
-<img width="948" alt="Customer-service-1" src="https://user-images.githubusercontent.com/83584345/201995984-e414eac5-551f-4109-8021-72ea99342f5f.png">
+## Créer un Customer Service
+<img width="960" alt="5" src="https://user-images.githubusercontent.com/83584345/206150558-8b036bf8-9269-4e79-acee-92f746c79f3c.png">
 
-## Inventory Service 
-<img width="947" alt="Product-Service" src="https://user-images.githubusercontent.com/83584345/201996069-3a1a14ca-9a20-4d03-a843-21b11ac008ae.png">
-<img width="947" alt="Product-Service-1" src="https://user-images.githubusercontent.com/83584345/201996091-b65db12c-db46-45f0-a71e-bd99feaea985.png">
+## Créer un Inventory Service
+<img width="959" alt="4" src="https://user-images.githubusercontent.com/83584345/206150797-15afbcb7-f1cb-41eb-9e6f-19e0ac52e909.png">
 
-## Eureka Service 
-<img width="949" alt="Eureka" src="https://user-images.githubusercontent.com/83584345/201996158-91bfdab1-4d11-4b25-a3b5-afdbf7fb0949.png">
-<img width="939" alt="Eureka-1" src="https://user-images.githubusercontent.com/83584345/201996171-2051fd3d-dd87-4fe0-b35a-1b2ab943f2a4.png">
+## Créer la Gateway Spring cloud Gateway avec une Configuration statique du système de routage
+<img width="959" alt="Customer-service" src="https://user-images.githubusercontent.com/83584345/206151320-adee5b7f-4a04-4809-b4a7-d7efc8359c36.png">
+<img width="948" alt="Customer-service-1" src="https://user-images.githubusercontent.com/83584345/206151326-a433ace7-dfd1-4a1d-a0eb-eb066d834352.png">
+<img width="947" alt="Product-Service" src="https://user-images.githubusercontent.com/83584345/206151376-c611bbee-6ce1-4b2c-b77c-a896f22790a2.png">
+<img width="947" alt="Product-Service-1" src="https://user-images.githubusercontent.com/83584345/206151383-647a7e89-959f-42d0-8379-994db6fafad8.png">
 
-## Billing Service 
-<img width="948" alt="8" src="https://user-images.githubusercontent.com/83584345/201996314-d02144b5-f393-4848-93c4-fa5b1a577003.png">
+## Créer Eureka Discovery Service
 
-## Liste des products
-<img width="960" alt="1 liste des produits" src="https://user-images.githubusercontent.com/83584345/205733434-389ad126-ac03-446a-b851-2a85c3f42f4a.png">
+### Avant la création de Billing Service
+<img width="949" alt="Eureka" src="https://user-images.githubusercontent.com/83584345/206152122-9550a130-65c5-43d8-94f1-a4076b203c05.png">
+<img width="939" alt="Eureka-1" src="https://user-images.githubusercontent.com/83584345/206152127-2eb8f442-6c7d-4249-80d5-33c435caf3af.png">
 
-## Liste des customers
-<img width="958" alt="2Liste des customers" src="https://user-images.githubusercontent.com/83584345/205733477-a289b848-220c-46ed-91c7-e8872d062c36.png">
+## Après la création de Billing Service
+<img width="947" alt="Eureka_apres_billingservice" src="https://user-images.githubusercontent.com/83584345/206153328-2e8880e9-23fb-497d-8802-f8096a5bdc79.png">
 
-## Détail de la facture de client "Assia"
-<img width="948" alt="Facture_client_assia" src="https://user-images.githubusercontent.com/83584345/205733893-a828e10c-78d8-4c37-b4b1-6aed56d17e04.png">
-<img width="947" alt="4Facture_client_assia" src="https://user-images.githubusercontent.com/83584345/205733900-05511833-1e82-4908-aeab-e3f01b418347.png">
+## Créer Billing Service
+<img width="950" alt="7" src="https://user-images.githubusercontent.com/83584345/206154291-dae2a039-b753-4e00-a576-4c8a19808e74.png">
 
-# Sécuriser les micro-services et le frontend angular en déployant les adaptateurs Keycloak
+## Créer un Client Web Angular (Clients, Produits, Factures)
+<img width="960" alt="1 liste des produits" src="https://user-images.githubusercontent.com/83584345/206154778-f3cad3c5-a62e-4ecd-8d5f-c0b318753386.png">
+<img width="958" alt="2Liste des customers" src="https://user-images.githubusercontent.com/83584345/206154865-7796c6b3-040f-4aa5-b8ca-a38454563e48.png">
+<img width="948" alt="Facture_client_assia" src="https://user-images.githubusercontent.com/83584345/206155158-f8b120ed-6e2d-4bf7-80b4-6481a81727e7.png">
+<img width="947" alt="4Facture_client_assia" src="https://user-images.githubusercontent.com/83584345/206155179-1556a7ce-b438-4576-a4ae-b4ed2b730250.png">
 
-## Liste des utilisateurs 
-<img width="960" alt="liste_users" src="https://user-images.githubusercontent.com/83584345/205745921-2142f635-2e71-485d-b565-c832bc0031c2.png">
+## Déployer le serveur Keycloak 
 
-## Authentification de user "Assia"
-<img width="960" alt="1 authentification_user" src="https://user-images.githubusercontent.com/83584345/205746060-363f1b6b-91ea-4276-b244-f5650037ffec.png">
+## Créer un Realm 
+<img width="960" alt="Realm" src="https://user-images.githubusercontent.com/83584345/206156903-963c7c90-2283-4592-90d0-3dc22b0bb58c.png">
 
-## Liste des products 
-<img width="960" alt="liste_produit" src="https://user-images.githubusercontent.com/83584345/205746143-0730c48e-7cfb-448c-b532-601abccb1f67.png">
+## Créer un client à sécuriser 
+<img width="949" alt="Client" src="https://user-images.githubusercontent.com/83584345/206156922-6258f3e4-bfb7-41e2-ad3f-a1796536b554.png">
 
-## Liste des customers
-<img width="960" alt="liste_facture" src="https://user-images.githubusercontent.com/83584345/205746828-74baffbd-427b-48a0-847a-c85364211b5e.png">
+## Créer les utilisateurs
+<img width="960" alt="Users" src="https://user-images.githubusercontent.com/83584345/206157302-d5eefd30-f752-488e-8823-312995e33259.png">
 
-## Détail de la facture 
-<img width="947" alt="detail_facture" src="https://user-images.githubusercontent.com/83584345/205746224-b4f5d507-ca6d-4604-a29d-b59e4d96e242.png">
-<img width="949" alt="2detail_facture" src="https://user-images.githubusercontent.com/83584345/205746259-20466f0d-98ed-4a15-8aa7-669893ebe280.png">
+## Créer les rôles
+<img width="948" alt="roles" src="https://user-images.githubusercontent.com/83584345/206157612-fb832454-d370-4c72-bfba-3f2c7729c5e1.png">
 
-# Logout
-<img width="950" alt="4logout" src="https://user-images.githubusercontent.com/83584345/205746399-26532c3f-ccdb-4bcf-a202-b24ca1fa4802.png">
-<img width="960" alt="5_logout" src="https://user-images.githubusercontent.com/83584345/205746445-e38d9820-d1ea-41fc-b5c2-8724f9ca7369.png">
+## Affecter les rôles aux utilisateurs
+<img width="947" alt="role_assia" src="https://user-images.githubusercontent.com/83584345/206158175-a4076372-8ec7-4afa-8f20-1e878314bd58.png">
+<img width="957" alt="role_imane" src="https://user-images.githubusercontent.com/83584345/206158181-984d165c-379e-4304-83fa-ecdbfe2fda86.png">
+
+## Tester les différents modes d'authentification avec Postman en montrant les contenus de Access-Token, Refresh
+## Access-Token
+<img width="959" alt="Acces-token" src="https://user-images.githubusercontent.com/83584345/206159878-91f8e0dd-d6ea-48b7-9f82-bb123dcbad07.png">
+<img width="960" alt="Acces-token2" src="https://user-images.githubusercontent.com/83584345/206159885-1497f34f-9a1b-47bf-b5d3-893f8e6cfabc.png">
+
+## Refresh-Token
+<img width="960" alt="refresh-token" src="https://user-images.githubusercontent.com/83584345/206161397-687db77c-99b1-4376-9c16-f4afcd9d0e7e.png">
+<img width="960" alt="refresh-token2" src="https://user-images.githubusercontent.com/83584345/206161404-2c716587-9d85-4e28-87c6-b652f975f66e.png">
+
+## Sécuriser les micro-services et le frontend angular en déployant les adaptateurs Keycloak
+<img width="960" alt="1 authentification_user" src="https://user-images.githubusercontent.com/83584345/206161556-061722fd-47c5-42ce-b342-f4a1c3a72e0f.png">
+<img width="960" alt="liste_produit" src="https://user-images.githubusercontent.com/83584345/206161731-0bce5e6c-ecee-4339-8c25-0a35c1ad20ea.png">
+<img width="960" alt="liste_customer" src="https://user-images.githubusercontent.com/83584345/206161761-6d574fa3-3e62-4728-8192-4afa760f8f69.png">
+<img width="950" alt="4logout" src="https://user-images.githubusercontent.com/83584345/206161985-7790cfaf-aa81-4102-bbb7-0774fcb2bc52.png">
+<img width="960" alt="5_logout" src="https://user-images.githubusercontent.com/83584345/206161992-1a0a9d4b-28c4-43bc-9ee4-abcee0511918.png">
 
