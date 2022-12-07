@@ -46,7 +46,8 @@
 
 ## Affecter les rôles aux utilisateurs
 <img width="947" alt="role_assia" src="https://user-images.githubusercontent.com/83584345/206158175-a4076372-8ec7-4afa-8f20-1e878314bd58.png">
-<img width="957" alt="role_imane" src="https://user-images.githubusercontent.com/83584345/206158181-984d165c-379e-4304-83fa-ecdbfe2fda86.png">
+<img width="957" alt="role_imane" src="https://user-images.githubusercontent.com/83584345/206162903-8a16841f-9106-4f68-8293-77680279f74e.png">
+
 
 ## Tester les différents modes d'authentification avec Postman en montrant les contenus de Access-Token, Refresh
 ## Access-Token
